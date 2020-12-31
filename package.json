@@ -1,0 +1,28 @@
+{
+  "name": "csgo-api",
+  "version": "1.3.2",
+  "description": "API for getting data from CSGO servers. Playcount, Maps, Player info, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "csgo",
+    "api",
+    "csgo server",
+    "csgo server player count"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jackcrispy/csgo-api.git"
+  },
+  "author": "JackCrispy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JackCrispy/csgo-api/issues"
+  },
+  "homepage": "https://crisp.codes",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
